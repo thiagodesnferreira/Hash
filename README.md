@@ -5,9 +5,9 @@ O arquivo foi elaborado com o objeto de criar uma hash para fazer uma lista enca
 
 Usando como referencias os valores de hash = 900001
 
-O arquivo Principal.java possui todas as funcoes para realizar o arquivo.
+O arquivo Principal.java possui todas as funcoes para realizar o arquivo juntamente com os Inputs que foram dados em sala.
 
-Input :  arquivo cep_ordenado.dat dado pelo professor.
+Input :  arquivo cep_ordenado.dat dado pelo professor e arquivo Endereco.java.
 
 Output: Cria um arquivo hash.dat - com a lista encadeada
 
