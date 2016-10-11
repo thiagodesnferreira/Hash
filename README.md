@@ -32,8 +32,10 @@ Que sao calculadas com base nos dados considerando uma hash de 900001.
 
 Estatisticas
 
-Existem 502464 espacos vazios no array
-O numero medio de passos sera  1.7665303 passos 
-O espaco com mais CEPS possui 15 enderecos
+Existem 502464 espacos vazios no array.
+
+O numero medio de passos sera  1.7665303 passos.
+
+O espaco com mais CEPS possui 15 enderecos.
 
 Alem dessas estatisticas o arquivo traz tambem a probabilidade de achar outros CEPS e sua quantidade de elementos encadeados.
