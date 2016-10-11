@@ -26,7 +26,7 @@ Existe um menu no arquivo que direciona o usuario para utilizar as funcoes.
 
 2---- A funcao buscarCep pega o CEP e divide pelo valor da hash, com este resultado vai direto na posicao que o arquivo deve estar. Se nao localiza de primeira vai para a posicao proximo e assim por sequencia ate achar o valor do cep. Depois pega a posicao do arquivo original que esta grava nele e abre o arquivo original direto no ponteiro dele. Entao pega os dados restantes do CEP.
 
-3--- Tras algumas estatisticas interessantes sobre o arquivo.
+3--- Tras algumas estatisticas interessantes sobre o arquivo que sao calculadas diretamente nas funcoes.
 
 Que sao calculadas com base nos dados considerando uma hash de 900001.
 
@@ -34,7 +34,7 @@ Estatisticas
 
 Existem 502464 espacos vazios no array.
 
-O numero medio de passos sera  1.7665303 passos.
+O numero medio de passos sera  1.7665303 passos ou arredondado 1.78 passos  para achar o resultado.
 
 O espaco com mais CEPS possui 15 enderecos.
 
